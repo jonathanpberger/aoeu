@@ -1,33 +1,12 @@
 # The Case You Can't See Case Study
 
-jon@discovery.works
-April 2021
-NYU Stern 
-
 ---
 
 ## The Deal
 
-Law enforcement occupies a critical---and fraught---position in modern American society. Rates of suicide and addiction far outpace the general populace, yet traditional courses of treatment are less accessible and effective. 
-
-
----
-
-This Special Place ("TSP", a pseudonym) envisioned a radically different model of care delivery: an inpatient, first-responders-only recovery program. 
+Law enforcement occupies a critical---and fraught---position in modern American society. Rates of suicide and addiction far outpace the general populace, yet traditional courses of treatment are less accessible and effective. This Special Place ("TSP", a pseudonym) envisioned a radically different model of care delivery: an inpatient, first-responders-only recovery program. The idea took off like a shot, and after a fairly rudimentary website and brand were developed, they got busy treating patients. And they were good at it. So when they came to us, a few years later, their website still looked like it was hosted on Geocities---but that had never really been a blocker...until now. The business had grown, the old site was holding them back, and they were ready to re-present themselves to the world. Which raised a question: how can we best present ourselves? It was a rare opportunity to get deep and articulate who we are and what we do. It was time to talk to users.
 
 ---
-
-The idea took off like a shot, and after a fairly rudimentary website and brand were developed, they got busy treating patients. And they were good at it. 
-
----
-
-So when they came to us, a few years later, their website still looked like it was hosted on Geocities---but that had never really been a blocker...until now. The business had grown, the old site was holding them back, and they were ready to re-present themselves to the world. Which raised a question: how can we best present ourselves? It was a rare opportunity to get deep and articulate who we are and what we do. It was time to talk to users.
-
-Note:
-  Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit `s` on your keyboard).
-
----
-
 
 ## The Assignment
 
