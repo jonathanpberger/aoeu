@@ -1,7 +1,7 @@
 ---
 slideOptions:
   theme: blood # Black (default) - White - League - Sky - Beige - Simple - Serif - Blood - Night - Moon - Solarized
-  # title: Example Slide
+  title: The Case You Can't See
   
 ---
 
