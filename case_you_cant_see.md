@@ -1,3 +1,17 @@
+---
+slideOptions:
+  theme: blood # Black (default) - White - League - Sky - Beige - Simple - Serif - Blood - Night - Moon - Solarized
+  # title: Example Slide
+  
+---
+
+<style type="text/css">
+  .reveal p  {text-align: left;}
+  .reveal ul {display: block;}
+  .reveal ol {display: block;}
+  .reveal h1 {font-size: 2em; text-align: left;}
+</style>
+
 # The Case You Can't See Case Study
 
 jon@discovery.works
@@ -8,35 +22,40 @@ NYU Stern
 
 ## The Deal
 
-Law enforcement occupies a critical---and fraught---position in modern American society. Rates of suicide and addiction far outpace the general populace, yet traditional courses of treatment are less accessible and effective. 
+Law enforcement occupies a critical---and fraught---position in modern American society. 
 
-
----
-
-This Special Place ("TSP", a pseudonym) envisioned a radically different model of care delivery: an inpatient, first-responders-only recovery program. 
-
----
-
-The idea took off like a shot, and after a fairly rudimentary website and brand were developed, they got busy treating patients. And they were good at it. 
-
----
-
-So when they came to us, a few years later, their website still looked like it was hosted on Geocities---but that had never really been a blocker...until now. The business had grown, the old site was holding them back, and they were ready to re-present themselves to the world. Which raised a question: how can we best present ourselves? It was a rare opportunity to get deep and articulate who we are and what we do. It was time to talk to users.
+- Rates of suicide and addiction far outpace the general populace, yet 
+- traditional courses of treatment are less accessible and effective. 
 
 Note:
-  Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit `s` on your keyboard).
+    foo
 
 ---
 
+## This Special Place ("TSP", a pseudonym) 
+
+envisioned a radically different model of care delivery: an 
+
+- inpatient, 
+- first-responders-only recovery program. 
+
+Note:
+    - The idea took off like a shot, and 
+    - after a fairly rudimentary website and brand were developed, 
+    - they got busy treating patients. And 
+    - they were good at it. 
+
+---
 
 ## The Assignment
+
+So when they came to us, a few years later, their website still looked like it was hosted on Geocities---but that had never really been a blocker...until now. The business had grown, the old site was holding them back, and they were ready to re-present themselves to the world. Which raised a question: how can we best present ourselves? It was a rare opportunity to get deep and articulate who we are and what we do. It was time to talk to users.
 
 That was a wake-up call: it was time to professionalize their image and marketing. They'd learned and changed the product itself quite a bit since the initial idea that was reflected in the website, as well as having added their first outpatient facility and plans for several more facilities. Our brief was a bit unusual for a product development firm: we came in to build a marketing website. In the process, we helped them rediscover and better understand TSP as a product.
 
 ---
 
-The Problem
------------
+## The Problem
 
 Usually, the first thing we'd do is interview users. Can't do that here: the nature of recovery work precludes it, for practical and privacy reasons. Secondly: First Responders (cops, firefighters, EMTs, etc.) won't talk to outsiders the same way they'll talk to their tribe. Especially about vulnerability. What could we do?
 
